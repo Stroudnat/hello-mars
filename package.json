@@ -1,5 +1,5 @@
 {
-  "name": "Stroud.nat-publish-to-npm",
+  "name": "stroud.nat-publish-to-npm",
   "version": "1.0.1",
   "description": "Test to publish to NPM ",
   "main": "index.js",
