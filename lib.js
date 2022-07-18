@@ -1,5 +1,5 @@
 function hello(){
-    console.log('Hello Mars!!');
+    console.log('Hello Mars and Martians!!');
 }
 
 module.exports = {
