@@ -1,0 +1,22 @@
+{
+  "name": "publish-to-npm",
+  "version": "1.0.0",
+  "description": "Test to publish to NPM ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stroudnat/hello-mars.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "Nathan Stroud <Stroud.nat@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stroudnat/hello-mars/issues"
+  },
+  "homepage": "https://github.com/Stroudnat/hello-mars#readme"
+}
