@@ -1,5 +1,9 @@
-function hello(){
-    console.log('Hello Mars and Martians!!');
+function hello(lang){
+    if(lang === 'es'){
+        console.log("Hola marte y marcianas!!");
+    } else {
+        console.log("Hello Mars!! ");
+    }
 }
 
 module.exports = {
